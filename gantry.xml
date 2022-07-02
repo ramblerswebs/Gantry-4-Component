@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <extension type="component" version="2.5" method="upgrade">
     <name>COM_GANTRY</name>
-    <author>RocketTheme, LLC</author>
-    <creationDate>April  1, 2020</creationDate>
+    <author>RocketTheme, LLC/RA Modified for PHP 8.0</author>
+    <creationDate>July  2, 2022</creationDate>
     <copyright>(C) 2005 - 2020 RocketTheme, LLC. All rights reserved.</copyright>
     <license>http://www.gnu.org/copyleft/gpl.html GNU/GPL</license>
     <authorEmail>support@rockettheme.com</authorEmail>
     <authorUrl>http://www.rockettheme.com</authorUrl>
-    <version>4.1.43</version>
+    <version>4.1.431</version>
     <description>Gantry 4 component. Needs to be enabled at all times.</description>
 
     <scriptfile>gantry_install.script.php</scriptfile>
